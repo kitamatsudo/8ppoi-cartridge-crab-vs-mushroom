@@ -1,5 +1,5 @@
 {
-  "consoleVersion": "1.0.0-alpha.1",
+  "consoleVersion": "1.0.0",
   "name": "Crab vs Mushroom",
   "description": "カニを操作してキノコを避けろ！ぶつかると爆発して後ろに下がるぞ。穴に落ちるな！"
 }
